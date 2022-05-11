@@ -5,7 +5,7 @@
     "dataset": "production"
   },
   "project": {
-    "name": "HULL",
+    "name": "shopify-headless-theme",
     "basePath": "/studio"
   },
   "plugins": [
